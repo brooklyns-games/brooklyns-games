@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @brooklyns-games
-\<p>Wait, how do you input text in HTML again?\</p>
+- Pronouns: ???/???
+- Main language: Python
 - 👀 I’m interested in 
   - Games
   - Art
   - Animation
 - 🌱 I’m currently learning ...
-  - Relearning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on ...
+  - HTML, CSS, and JS
+  - Crocheting
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
