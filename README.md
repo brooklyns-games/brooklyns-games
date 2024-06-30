@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @brooklyns-games
 - Pronouns: ???/???
 - Main language: Python
-- 👀 I’m interested in 
+- 👀 I’m interested in
+  - Storytelling
   - Games
   - Art
   - Animation
