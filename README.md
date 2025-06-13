@@ -1,16 +1,19 @@
 - 👋 Hi, I’m @brooklyns-games
-- Pronouns: ???/???
-- Main language: Python
+- Pronouns: she/they
+  
+- Lanugages: Python, JS, Java,
+  
 - 👀 I’m interested in
   - Storytelling
-  - Games
+  - Video Games
   - Art
   - Animation
+    
 - 🌱 I’m currently learning ...
-  - HTML, CSS, and JS
-  - Crocheting
+  - pygame module
+  - 
 - 💞️ 
-- 📫 How to reach me ...
+- 📫 How to reach me ... Discord: penrose2400
 
 <!---
 brooklyns-games/brooklyns-games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
